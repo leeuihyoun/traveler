@@ -21,5 +21,20 @@
 
 
 #동작 화면
-   ![캘린더페이지](https://github.com/user-attachments/assets/dac7730c-6f2d-479e-8364-7177e826e392)
+ 메인페이지
+ ![메인페이지](https://github.com/user-attachments/assets/b324fde1-66f2-41b8-9064-efa37f2722dd)
+ 캘린더페이지
+ ![캘린더페이지](https://github.com/user-attachments/assets/dac7730c-6f2d-479e-8364-7177e826e392)
+ 캘린더 일정추가
+ ![일정추가](https://github.com/user-attachments/assets/8034ae30-519e-48a6-8ed6-1f1a319d6701)  
+ 캘린더 일정 수정
+ ![캘린더 수정및 삭제](https://github.com/user-attachments/assets/80d91968-2947-4499-a044-88bfe610858f)
+  게시판 페이지
+  ![게시판리스트](https://github.com/user-attachments/assets/0737a7b0-7bbc-4b91-85ea-02190d038b8d)  
+  게시글 작성페이지
+  ![게시글작성](https://github.com/user-attachments/assets/47497e49-41cc-4280-8225-e8eed1d6cabc)
+ 게시글 상세페이지
+  ![게시글 상세페잊](https://github.com/user-attachments/assets/eb2ef611-3f25-41e1-b4c2-8f725147bb2d)
+  
+
     
