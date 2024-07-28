@@ -21,6 +21,9 @@
 
 
 #동작 화면
+ ERD
+ ![스크린샷 2024-07-28 212937](https://github.com/user-attachments/assets/79011baf-c7f0-4921-b28c-ca21fbee9944)
+ ![스크린샷 2024-07-28 213031](https://github.com/user-attachments/assets/bbe420fe-8fc0-44c5-b28e-200ae3e73a1c)
  메인페이지
  ![메인페이지](https://github.com/user-attachments/assets/b324fde1-66f2-41b8-9064-efa37f2722dd)
  캘린더페이지
