@@ -4,13 +4,19 @@
 ## 만든 목적
  + 한 웹사이트안에서 자유여행과 패키지여행을 모두 예약할 수 있고 예약한 내용을 캘린더를 통해서 볼 수 있을면 좋지 않을까? 라는 생각을 가지게 되어 만들게 되었습니다.
 
-# 일정
+## 개발 환경
+![image](https://github.com/user-attachments/assets/e3195ede-2f7d-450d-9dc0-2baaee43fb06)
+![image](https://github.com/user-attachments/assets/788dc61a-7b75-4785-af19-b0f0059a5912)
+https://images.velog.io/images/kyjna0312/post/933dfcfa-a12b-403a-aa29-07530c07660c/img.jpg
+https://images.velog.io/images/hanblueblue/post/27af7030-f4d5-4cf5-a0de-0037ec2e2c00/mybatis.png
+
+## 일정
  + 7월1일 기획 및 피그마 설계
  + 7월2일 웹 디자인 완료 및 ERD설계
  + 7월3일 ~ 7월 6일 프론트 개발 완료
  + 7월7일 ~ 7월 15일 백엔드 개발완료
 
-# 맡은 부분
+## 맡은 부분
  + 회원가입/로그인/로그아웃 기능 개발
    + session에 정보를 저장하여 로그인 및 로그아웃을 진행하였습니다
  + 마이페이지 개발
