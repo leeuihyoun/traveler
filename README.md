@@ -6,9 +6,10 @@
 
 ## 개발 환경
 ![image](https://github.com/user-attachments/assets/e3195ede-2f7d-450d-9dc0-2baaee43fb06)
+![image](https://github.com/user-attachments/assets/40926a30-9a37-4084-8f29-5ef78c98c0de)
+![image](https://github.com/user-attachments/assets/b710d988-1d22-43ba-b0b0-4af4f9a6459f)
+![image](https://github.com/user-attachments/assets/6322e70c-a048-4998-950e-7f730af8da37)
 ![image](https://github.com/user-attachments/assets/788dc61a-7b75-4785-af19-b0f0059a5912)
-https://images.velog.io/images/kyjna0312/post/933dfcfa-a12b-403a-aa29-07530c07660c/img.jpg
-https://images.velog.io/images/hanblueblue/post/27af7030-f4d5-4cf5-a0de-0037ec2e2c00/mybatis.png
 
 ## 일정
  + 7월1일 기획 및 피그마 설계
